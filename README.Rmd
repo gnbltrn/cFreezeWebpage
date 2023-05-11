@@ -14,7 +14,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-## cFreeze  <img src="man/figures/logo.png" align="right" height="139" />
+## cFreeze  <img src="logo.png" align="right" height="139" />
 
 <!-- badges: start -->
 <!-- badges: end --> 
@@ -71,4 +71,4 @@ freeze(-118.607994, 41.659626, 10, 30)
 #Plots the percent each day of the year had temperatures below 0C.
 plotdaysB0(-118.607994, 41.659626) 
 ```
-![](man/figures/plotB0.png)
+![](plotB0.png)
